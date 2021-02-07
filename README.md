@@ -1,2 +1,2 @@
-# Guess-the_number
+# Guess-the-number
 Number guessing game
